@@ -1,0 +1,1 @@
+private static final String UPDATE_URL = "https://www.example.com
